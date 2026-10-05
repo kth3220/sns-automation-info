@@ -1,0 +1,13 @@
+title: SNS Automation
+description: Owner-operated content publishing tool
+markdown: kramdown
+exclude:
+  - PUBLICATION-NOTES.md
+
+url: https://kth3220.github.io
+baseurl: /sns-automation-info
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
